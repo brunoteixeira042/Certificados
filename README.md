@@ -18,6 +18,6 @@ Este repositório foi criado para compartilhar os certificados que conquistei em
 Se você tiver alguma dúvida ou quiser saber mais sobre meus certificados, sinta-se à vontade para entrar em contato comigo:
 
 - **Email:** brunoteixeira042@gmail.com
-- **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/brunosousa-dev/)
+- **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/brunosousa-dev/)
 
 Obrigado por visitar meu repositório de certificados!
